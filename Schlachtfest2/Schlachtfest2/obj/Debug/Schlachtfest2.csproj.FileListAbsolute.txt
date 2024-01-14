@@ -1,0 +1,10 @@
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.csprojResolveAssemblyReference.cache
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.Form1.resources
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.Properties.Resources.resources
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.csproj.GenerateResource.Cache
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.csproj.CoreCompileInputs.cache
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\bin\Debug\Schlachtfest2.exe.config
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\bin\Debug\Schlachtfest2.exe
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\bin\Debug\Schlachtfest2.pdb
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.exe
+C:\Users\Domi\source\repos\Schlachtfest2\Schlachtfest2\obj\Debug\Schlachtfest2.pdb
